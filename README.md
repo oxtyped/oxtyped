@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on anything in the infra/ops/privacy and decentralized space
 - ✍ I mostly write in golang, and then ruby and python
 - 📫 You can find me on mastodon: [oxtyped@hackerdrinks.social](https://mastodon.hackerdrinks.social/web/@oxtyped)
-- 📫 You can also reach me on XMPP `oxtyped@trashserver.net`
+- 📫 I'm also on [oxtyped.net](oxtyped.net)
+- ❌ ~You can also reach me on XMPP `oxtyped@trashserver.net`~
 
 <!---
 oxtyped/oxtyped is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
